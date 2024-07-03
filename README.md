@@ -1,2 +1,1 @@
-# pose-tracking-
-Track human movements 
+Directory for hosting projects
