@@ -1,1 +1,2 @@
-Directory for hosting school projects
+Directory for hosting school project
+
