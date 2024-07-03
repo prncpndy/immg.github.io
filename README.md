@@ -1,1 +1,1 @@
-#Directory for hosting projects
+Directory for hosting projects
