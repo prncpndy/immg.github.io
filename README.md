@@ -1,11 +1,10 @@
 # Abstract
-To show that video games can aid in maintaining physical health.
-
--Sound
+#### To show that video games can aid in maintaining physical health.
+### 1.Sound
 Indian Classical Music(Bandish,etc)
--Video
+### 2.Video
 Indian Manuscipt Miniature Paintings(Mughal,Jain,etc)
--Typography
-Alphabet as found in Manuscript Texts(Latin)
--Input Controls
+### 3.Typography
+As found in Old Indian Illustrated Manuscript Texts(Latin)
+### 4.Input Controls
 Pose Estimation
